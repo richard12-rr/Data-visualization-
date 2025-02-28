@@ -22,13 +22,11 @@ The dataset was gotten from Kaggle and, it contains the following information:
 ###### •	Plug Type: The physical connector that plug into electric vehicle
 This analysis is divided into the following stages: Data cleaning, Data Exploration & Analysis, Insights, Recommendations, and Visualization.
 Data Processing & Cleaning
+
 4 duplicate values were removed and 259411 unique values remain
 ![uplicated cells](https://github.com/richard12-rr/Data-visualization-/blob/main/assets%20/images/Duplicated%20data.png)
-
-
-
 There were 5 columns that are outrightly empty with some cell but fortunately, The column and cells used for the analysis were not affected, hence to action was taken on 
-
+![Duplicate cells](https://github.com/richard12-rr/Data-visualization-/blob/main/assets%20/images/Empty%20cells.png)
 Station name were changed from lengthy text to Bryant, High, Hamiton, Webster, Cambridge, MPL, Rinconda, TED and Sherman
 Analysis
 ### Pivot table and column chart were used for the analysis
@@ -41,72 +39,41 @@ The following questions were raised to guide in the objective achievement:
 ###### 6.	What is the charging port type Usage?
 ###### 7.	How is the charging plug type put into use?
 
-
 ###1.	Charging rate in stations
+![Stationd Charging rate](https://github.com/richard12-rr/Data-visualization-/blob/main/assets%20/images/Station%20Charging%20rate.png)
 From table 1.0 and fig. 1.0; it is evident that BRYANT has  the highest charging rate of 45460 count of users ID, followed by HIGH with count of Users Id 38921, HAMILTON charging station has a count of user ID 37167 in third place, WEBSTER, CAMBRIDGE, MPL, RINCONADA, TED and SHERMAN have; 36354, 31636, 27752, 17910, 16508, 32  in order of users ID count.
 
 ###2.	The energy output in the stations
-
+[Energy Output](https://github.com/richard12-rr/Data-visualization-/blob/main/assets%20/images/station%20energy%20output.png)
               
 Figure 1.1 and table1.1 show that BRYANT sum of energy in kilowatts; 387293.5752 top the list of energy usage followed by HIGH with, HAMILTON, WEBSTER, CAMBRIDGE, MPL, RINCONADA, and TED in descending order. SHERMAN at the bottom of the table has least usage.
+
 ###3.	The trend of charging in the charging stations
+![Charging trend](https://github.com/richard12-rr/Data-visualization-/blob/main/assets%20/images/Station%20charging%20trend.png)
 
 The rushing hour or car charging begins at 12am, it reaches the peak in the hours of 1am and decline at 2am and a charge decline in the hours of 3am to 6am. At 7, 8 and 9 all in am, charging drops to Zero according to dashboard in table 1.2 and column chart in fig 1.2
 
-
-
-
-
-
-
-
-
-
-
-### 4.	The charging duration count?                                                                               
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 4.	The charging duration count? 
+![Charging Duration](https://github.com/richard12-rr/Data-visualization-/blob/main/assets%20/images/Station%20Charging%20duration.png)
 
 
 
 ###5.	The gasoline saving
+!{Gasoline Saving](https://github.com/richard12-rr/Data-visualization-/blob/main/assets%20/images/Station%20gasoline%20saving.png)
 
 Dashboard, chart labelled table 1.4 and figure 1.4 indicate that BRYANT Station has the leading gasoline saving per gallon closely followed by WEBSTER
-
-
-
 ### 6.	Port type usage
-
+![port type Usage](https://github.com/richard12-rr/Data-visualization-/blob/main/assets%20/images/Station%20port%20type%20usage.png)
 Plug type J1772 is the most used plug across the charging judging by the count of charging duration in relation to plug type, this is evident in table 1.5 and figure 1.5
 
 ###7.	Plug type Usage	
-
-
+![Plug type Usage](https://github.com/richard12-rr/Data-visualization-/blob/main/assets%20/images/Station%20plug%20type%20Usage.png)
 According to dashboard in tagged table 1.7 and figure 1.7, level port type is the most efficiently used.
-
-
-
-
-
-
 
 ### The Insight
 ######1.	Charging activities takes place in the night between hours 12am and 5am
 ######2.	Some charging facilities are doing better than the other, Sherman Facility is performing ridiculously poor compared with other charging stations
 ###### 3.	Level 2 charging port and J1772 plug are the most used are the most.
-	
-
 
 ## Recommendations
 #### 1.	Charging stations such as Sherman, Ted and Rinconada and canbridge where the capacity of charging facility was underutilized should look into reasons for the low patronage and get them fixed
