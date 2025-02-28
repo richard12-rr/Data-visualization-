@@ -25,7 +25,8 @@ Data Processing & Cleaning
 
 4 duplicate values were removed and 259411 unique values remain
 ![uplicated cells](https://github.com/richard12-rr/Data-visualization-/blob/main/assets%20/images/Duplicated%20data.png)
-There were 5 columns that are outrightly empty with some cell but fortunately, The column and cells used for the analysis were not affected, hence to action was taken on 
+There were 5 columns that are outrightly empty with some cell but fortunately, The column and cells used for the analysis were not affected, hence to action was taken get it edited
+
 ![Duplicate cells](https://github.com/richard12-rr/Data-visualization-/blob/main/assets%20/images/Empty%20cells.png)
 Station name were changed from lengthy text to Bryant, High, Hamiton, Webster, Cambridge, MPL, Rinconda, TED and Sherman
 Analysis
