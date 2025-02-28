@@ -1,9 +1,9 @@
-# Data-visualization-
+## Data-visualization-
 
-# Data-Visualization-in-excel
+### Data-Visualization-in-excel
 
-# Electric Vehicle Charging Station Performance Using Excel
-## OBJECTIVES TO GUIDE THE ANALYSIS
+#### Electric Vehicle Charging Station Performance Using Excel
+#### OBJECTIVES TO GUIDE THE ANALYSIS
 The objective is to build a tracker for monitoring usage rates, power output, GHG saving, gasoline saving at electric vehicle charging stations. Use Excel to visualize trends in usage, peak times, and energy consumption across different locations to measure performance in United state Electric charging stations.
 Data Collection 
 The dataset was gotten from Kaggle and, it contains the following information:
@@ -76,14 +76,14 @@ According to dashboard in tagged table 1.7 and figure 1.7, level port type is th
 ###### 3.	Level 2 charging port and J1772 plug are the most used are the most.
 
 ## Recommendations
-#### 1.	Charging stations such as Sherman, Ted and Rinconada and canbridge where the capacity of charging facility was underutilized should look into reasons for the low patronage and get them fixed
-### 2.	Going by the recommendation number one; the following areas should be looked into to ascertain the reason for low patronages 
-#### i.	The awareness of the people living in their host community about the hedge of Electric vehicle over gasoline dependent ones, if this accounted for the low patronage; aggressive advertisements and promotion must be embarked to get people switch over electric vehicles
-### ii.	Training and retraining exercise should be given to employees to have welcoming disposition to customers who comes to charge in the stations
-### iii.	 Loyalty and promotional discount should be given to car charging customers to make them come back again
-### 3.	Human resource i.e. employees must be tutored to have enough rest during day to attend to health wellbeing.
-### 4.	Burn out tendencies among employees must be addressed by giving off work days after a scheduled period of work to achieve employee retention.
-### 5.	The burden of charging all through the night hours can be shared to the day hours by operating discounted charging price from 6am till evening.    
+###### 1.	Charging stations such as Sherman, Ted and Rinconada and canbridge where the capacity of charging facility was underutilized should look into reasons for the low patronage and get them fixed
+###### 2.	Going by the recommendation number one; the following areas should be looked into to ascertain the reason for low patronages 
+###### i.	The awareness of the people living in their host community about the hedge of Electric vehicle over gasoline dependent ones, if this accounted for the low patronage; aggressive advertisements and promotion must be embarked to get people switch over electric vehicles
+###### ii.	Training and retraining exercise should be given to employees to have welcoming disposition to customers who comes to charge in the stations
+###### iii.	 Loyalty and promotional discount should be given to car charging customers to make them come back again
+###### 3.	Human resource i.e. employees must be tutored to have enough rest during day to attend to health wellbeing.
+###### 4.	Burn out tendencies among employees must be addressed by giving off work days after a scheduled period of work to achieve employee retention.
+###### 5.	The burden of charging all through the night hours can be shared to the day hours by operating discounted charging price from 6am till evening.    
 
 
 
